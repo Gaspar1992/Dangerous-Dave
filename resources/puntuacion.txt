@@ -1,0 +1,15 @@
+1Name = afg
+1Punt = 1450
+1Lvel = 3
+2Name = sii
+2Punt = 900
+2Lvel = 2
+3Name = yii
+3Punt = 900
+3Lvel = 3
+4Name = asd
+4Punt = 700
+4Lvel = 2
+5Name = asp
+5Punt = 700
+5Lvel = 3
